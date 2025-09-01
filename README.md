@@ -102,7 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 HackChat was created as a learning project to explore TCP networking and modern GUI development in Python. It demonstrates real-time communication, threading, and user interface design principles.
 
-**Built with ❤️ by [Your Name]**
+**Built with ❤️ by Roj**
 
 ---
 
